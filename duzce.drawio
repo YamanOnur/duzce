@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T09:40:24.992Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UP7WAPHfAPh24yphYbaF" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T09:59:09.265Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dkBzrFj-QswrmRgGYZOD" version="21.3.4" type="github">
   <diagram name="Sayfa -1" id="zG_2l_ArqiEFrmXrTz8i">
     <mxGraphModel dx="806" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,16 +17,16 @@
           <mxGeometry x="30" y="15" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zONAMrrNQjnf0vysekHA-5" value="Değerlendirir&lt;br&gt;(fiyatı belirleyen departman kim)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="370" width="130" height="100" as="geometry" />
+          <mxGeometry x="235" y="175" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zONAMrrNQjnf0vysekHA-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zONAMrrNQjnf0vysekHA-5" target="zONAMrrNQjnf0vysekHA-1" edge="1">
+        <mxCell id="zONAMrrNQjnf0vysekHA-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zONAMrrNQjnf0vysekHA-5" target="zONAMrrNQjnf0vysekHA-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="390" as="sourcePoint" />
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zONAMrrNQjnf0vysekHA-7" value="MALİYET" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zONAMrrNQjnf0vysekHA-12" value="dış maliyet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="640" width="80" height="50" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="310" y="640" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zONAMrrNQjnf0vysekHA-15" value="Oluşturur&lt;br&gt;(Kim)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="340" width="100" height="80" as="geometry" />
+          <mxGeometry x="450" y="310" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zONAMrrNQjnf0vysekHA-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zONAMrrNQjnf0vysekHA-7" target="zONAMrrNQjnf0vysekHA-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zONAMrrNQjnf0vysekHA-17" value="Departman&lt;br&gt;(Mesela muhasebe)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zONAMrrNQjnf0vysekHA-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zONAMrrNQjnf0vysekHA-15" target="zONAMrrNQjnf0vysekHA-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,6 +120,69 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="210" as="sourcePoint" />
             <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L7gXg9hvqnpm4vM7p5AW-20" target="L7gXg9hvqnpm4vM7p5AW-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="24" y="320" as="sourcePoint" />
+            <mxPoint x="60" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-15" value="ONAYLANAN PROJELER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-16" value="ONAY BEKLEYEN YADA REDDEDLİDİ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L7gXg9hvqnpm4vM7p5AW-16" target="L7gXg9hvqnpm4vM7p5AW-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-20" value="OR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L7gXg9hvqnpm4vM7p5AW-20" target="zONAMrrNQjnf0vysekHA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-22" value="mesela makine id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L7gXg9hvqnpm4vM7p5AW-15" target="L7gXg9hvqnpm4vM7p5AW-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-24" value="proje teklifi alınırken &#39;process&#39; bilgisi de burada girilirse iş kolay olabilir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zONAMrrNQjnf0vysekHA-1" target="L7gXg9hvqnpm4vM7p5AW-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="210" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="L7gXg9hvqnpm4vM7p5AW-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="73" y="520" as="sourcePoint" />
+            <mxPoint x="360" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-27" value="PROCESS&lt;br&gt;(burdan devam edilecek)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-28" value="İd" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7gXg9hvqnpm4vM7p5AW-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L7gXg9hvqnpm4vM7p5AW-27" target="L7gXg9hvqnpm4vM7p5AW-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="570" as="sourcePoint" />
+            <mxPoint x="360" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
