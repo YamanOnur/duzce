@@ -1,1 +1,1 @@
-# duzce
+# duzce kalıp firması iş analizi
